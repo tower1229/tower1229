@@ -2,7 +2,7 @@
 
 <br />
 
-<a target="_blank" href="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png">
+<a target="_blank" href="https://raw.githubusercontent.com/tower1229/tower1229/main/weixin.jpg">
   <img align="left" title="微信号" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
 <a href="#361917044">
