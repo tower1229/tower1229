@@ -1,7 +1,7 @@
 ## :fire: Hey! This is Refined-X. 
 
 <br />
-
+<div align="center">
 <a target="_blank" href="https://raw.githubusercontent.com/tower1229/tower1229/main/weixin.jpg">
   <img align="left" title="微信号" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
@@ -17,7 +17,7 @@
 <a target="_blank" href="https://refined-x.com/projects/">
   <img align="left" title="项目" alt="前端作品" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
 </a>
-
+</div>
 <br />
 <br />
 
