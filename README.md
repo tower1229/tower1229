@@ -21,7 +21,7 @@
 <br />
 <br />
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=tower1229&count_private=true&show_icons=true&&bg_color=30,6aa4f2,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/anuraghazra/github-readme-stats)
+![github card](https://gitportrait.refined-x.workers.dev/api/git-card/tower1229)
 
 我维护的[《前端周刊》](https://frontend-weekly.com/)，给前端同学准备的每周1小时阅读清单 😄
 
